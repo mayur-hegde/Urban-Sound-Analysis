@@ -1,5 +1,8 @@
 # Urban-Sound-Analysis
 
+## Overview
+The repository focuses on analyzing and classifying urban sound datasets using machine learning and deep learning techniques. Key components include feature extraction using MFCCs and classification using a feedforward neural network.
+
 ## Dataset Information
 This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes:
 
